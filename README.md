@@ -67,16 +67,17 @@ Some EXAMPLES:-
 
 ![image](https://user-images.githubusercontent.com/32609967/31354714-07b637ec-ad55-11e7-9fce-b27f8511fe9b.png)
 
-The above letter was written by famous body builder: Arnold Schwarzenegger to the STATE ASSEMBLY.
-The Letter contains following hidden message:-
+### The above letter was written by famous body builder: Arnold Schwarzenegger to the STATE ASSEMBLY.
+### The Letter contains following hidden message:-
 
 ![image](https://user-images.githubusercontent.com/32609967/31354785-51a6d7f8-ad55-11e7-8e87-516d43c061b6.png)
 
-Another Example is a Picture of a Cat hidden in a Picture of treee:-
+### Another Example is a Picture of a Cat hidden in a Picture of treee:-
 
 ![steg 2](https://user-images.githubusercontent.com/32609967/31354808-6822503e-ad55-11e7-8295-43b50d73efe5.png)
 
-So, overview of our project:-
+
+### **So, overview of our project:-**
 
 ![data encrypted](https://user-images.githubusercontent.com/32609967/31354820-7712b494-ad55-11e7-842d-a58ba6835ab4.png)
 
