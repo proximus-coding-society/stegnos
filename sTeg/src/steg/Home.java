@@ -432,7 +432,7 @@ public class Home extends javax.swing.JFrame {
 
     private void decryptButActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_decryptButActionPerformed
         // TODO add your handling code here:
-        String dm = pathText2.getText();
+        String dm = eMessage.getText();
         String Message = Crypto.decrypt(dm, passwordText2.getText());
         eMessage.setText(Message);
     }//GEN-LAST:event_decryptButActionPerformed
