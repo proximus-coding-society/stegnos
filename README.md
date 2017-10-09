@@ -44,7 +44,7 @@ A software called as HASH Calc gives the idea about some of these Encryption Tec
 
 ![image](https://user-images.githubusercontent.com/32609967/31352403-5026ecd2-ad4c-11e7-8b85-1717e062dea5.png)
 
-So we can see that the String "Hello World" after encryption in different techniques what it look likes. More the number of character in encryption, more strong is the encryption to decode.
+So we can see that the String "Hello World" what it look likes after it is encrypted in using different algorithms. More the number of character in encryption, more strong is the encryption and more difficult it is to decode.
  
  
 ## **STEAGANOGRAPHY:-**
