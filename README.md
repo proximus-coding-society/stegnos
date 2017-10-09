@@ -4,7 +4,7 @@ This app will do something Awesome!
 
 ### add as project in NetBeans 8.2+ to run and work on
 
--> crypto graphy working
+-> cryptography working
 
 -> steganography working
 
@@ -15,7 +15,7 @@ Hide your secret message in a picture. We provide you even more security as your
 
 
 
-# So, What is CRYPTOGRAPHY & STEGNOGRAPHY ???
+# So, What is CRYPTOGRAPHY & STEGANOGRAPHY ???
 
 ## **CRYPTOGRAPHY:-**
 Encryption is a fundamental tool for the protection of sensitive information. Its historical purpose is privacy (preventing disclosure or confidentiality in communications. Encryption is a way of talking to someone while other people are listening, but such that the other people cannot understand what you are saying. It can also be used to protect data in storage as well as to detect active attacks, such as message or file modification.We refer to encryption as a tool because it is a means for achieving an end; it is not an end in itself. Cryptography, hidden writing, is a method for transforming the representation (appearance) of information without changing its information content. Plaintext (cleartext) is one representation of the information expressed in natural language, intelligible to all. Ciphertext is a different representation, designed to conceal the information from unauthorized persons. Encryption (or encipherment) is the transformation from cleartext to ciphertext. Decryption (or decipherment) is the reverse transformation.
@@ -53,7 +53,8 @@ Steganography is the practice of concealing a file, message, image, or video wit
 The first recorded use of the term was in 1499 by Johannes Trithemius in his Steganographia, a treatise on cryptography and steganography, disguised as a book on magic. Generally, the hidden messages appear to be (or be part of) something else: images, articles, shopping lists, or some other cover text. For example, the hidden message may be in invisible ink between the visible lines of a private letter. Some implementations of steganography that lack a shared secret are forms of security through obscurity, and key-dependent steganographic schemes adhere to Kerckhoffs's principle.
 The advantage of steganography over cryptography alone is that the intended secret message does not attract attention to itself as an object of scrutiny. Plainly visible encrypted messages, no matter how unbreakable they are, arouse interest and may in themselves be incriminating in countries in which encryption is illegal.
 
-Whereas cryptography is the practice of protecting the contents of a message alone, steganography is concerned with concealing the fact that a secret message is being sent as well as concealing the contents of the message.
+### Whereas cryptography is the practice of protecting the contents of a message alone, steganography is concerned with concealing the fact that a secret message is being sent as well as concealing the contents of the message.
+
 Steganography includes the concealment of information within computer files. In digital steganography, electronic communications may include steganographic coding inside of a transport layer, such as a document file, image file, program or protocol. Media files are ideal for steganographic transmission because of their large size. For example, a sender might start with an innocuous image file and adjust the color of every hundredth pixel to correspond to a letter in the alphabet. The change is so subtle that someone who is not specifically looking for it is unlikely to notice the change.
 
 ### HISTORY:-
